@@ -41,3 +41,8 @@ ul.posts li { list-style: none; }
 img.rcorners {
 	border-radius: 25px;
 }
+
+table {
+	table-layout: fixed;
+	width: 900px;
+}
