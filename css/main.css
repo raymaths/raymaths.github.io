@@ -1,16 +1,17 @@
-body { margin: 60px auto; width: 70%; 
+body { margin: 60px auto; 
+	   width: 70%; 
 	   background-image:url("../bezier_math.svg");
 	   background-color: rgba(238, 108, 69, 0.2);
+	   font-size: 18px;
 }
-
 
 a { text-decoration: none; 
 	color: #999; 
   }
   
 
-  a:hover { text-decoration: underline; 
-		  }
+a:hover { text-decoration: underline; 
+		}
 
 a.text	{text-shadow: 0px 0px .5px black;}
 
@@ -19,9 +20,17 @@ p, ul { font-size: 1em;
 		color: #333; 
 	  }
 
+/*
+ids for unordered lists
+for custom bullet icons
+*/
+#teaching {list-style-image: url(pencil.png);}
+#teaching ul {list-style-image:none;}
+#notes {list-style-image: url(book.png);}
+
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
-h2 { font-size: 2.7em; }
+h2 { font-size: 2em; }
 h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
 
