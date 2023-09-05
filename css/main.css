@@ -1,4 +1,7 @@
-body { margin: 60px auto; 
+body { margin-top: 60px;
+		margin-bottom: 60px;
+		margin-left: auto;
+		margin-right: auto;
 	   width: 70%; 
 	   /*background-image:url("../bezier_math.svg");*/
 	   /*background-color: #fffdd0;*/
@@ -11,11 +14,13 @@ nav {	border-top: 2px solid #000000;
 		border-bottom: 2px solid #000000;
 		text-align: center;
 		width: 1000px;
+		margin: auto;
 	}
 
 footer { border-top: 2px solid #000000; 
 		 font-size: .8em; 
 		 width: 1000px;
+		 margin:auto;
 	   }
 
 nav a, footer a {color:#54626F;}
@@ -66,7 +71,7 @@ for custom bullet icons
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
-h2 { font-size: 2em; }
+h2 { font-size: 2em;}
 h3 { font-size: 1.5em; }
 h4 { font-size: 1.9em; }
 
@@ -110,6 +115,9 @@ div.content {width: 900px;
               padding: 15px 15px 15px 15px;;
 			  background-color: #fdfd96;
 			}
+div.mainwrapper {margin:auto; width:1000px;}
+
+div.heading {width:500px;}
 			  
 div.blurb { padding: 0px 0px 10px 0px;}			  
 			  
