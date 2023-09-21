@@ -89,6 +89,8 @@ table.main {
 	margin:auto;
 }
 
+td {padding: 10px;}
+
 div.tcontent {width: 90%;
 			  min-width: 350px;
               border-style: outset outset outset outset;
