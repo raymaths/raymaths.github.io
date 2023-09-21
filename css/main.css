@@ -84,13 +84,13 @@ img.rcorners {
 }
 
 table.main {
-	table-layout: fixed;
+	/*table-layout: fixed*/;
 	width: 90%;
 	margin:auto;
 }
 
 div.tcontent {width: 90%;
-			  min-width: 300px;
+			  min-width: 350px;
               border-style: outset outset outset outset;
               border-radius: 10px;
               border-color: #373737;
