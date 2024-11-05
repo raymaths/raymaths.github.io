@@ -8,95 +8,173 @@
 
 <url>
   <loc>https://raymaths.github.io/</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://raymaths.github.io/docs/rayan_ibrahim_cv_web.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <loc>https://raymaths.github.io/index.html</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/docs/ibrahim_cv.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/teaching.html</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/research/research.html</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
-
-<url>
-  <loc>https://raymaths.github.io/teaching/teaching.html</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-</url>
-
 <url>
   <loc>https://raymaths.github.io/talks/talks.html</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
-
-
+<url>
+  <loc>https://raymaths.github.io/miscellany/miscellany.html</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://raymaths.github.io/teaching/Precalculus.html</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/Calculus1.html</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/MathLiberalArts.html</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/talks/DMS_Fall_2023_bootstrap.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/talks/JMM_2023_theta_curves.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/talks/DMS_Spring_2022_alpha2.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/talks/SYSM697_reconstruction.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/talks/YMC_3pathdom.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/PrecalBook.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_0_Prerequisites.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_1_QuadraticRadical.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_2_AbsVal_Piecewise.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_3_Polynomials.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_4_Rational.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_5_Composition.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_6_Inverses.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_7_Exponentials.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_8_Logarithms.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_9_CompoundInterest.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://raymaths.github.io/teaching/workbook/Chapter_10_Trigonometry.pdf</loc>
-  <lastmod>2023-09-13T22:47:10+00:00</lastmod>
-  
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/calc1notes/CalcI_Notes.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/notes131/Chapter3_FairDivWksht.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/notes131/Chapter5_Notes.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/notes131/Chapter9_Notes.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/notes131/Chapter10_Notes.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/notes131/Midterm_Review.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://raymaths.github.io/teaching/notes131/Midterm_Review_key.pdf</loc>
+  <lastmod>2024-11-02T21:19:11+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
